@@ -6,7 +6,9 @@
 ![Último commit](https://img.shields.io/github/last-commit/fagh1483/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/fagh1483/legion-del-mal)
 
-# 🦹‍♂️ La Legión del Mal Local y Remoto!
+# 🦹‍♂️ La Legión del Mal Local y Remoto
+
+### Es un grupo para el
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
