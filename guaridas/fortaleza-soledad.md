@@ -13,7 +13,7 @@ La guarida principal de la Legión del Mal. Lex Luthor la construyó dentro de u
 
 ## Niveles
 
-### Nivel 1 - Superficie
+### Nivel 1 - Superficie total
 
 - Plataforma de aterrizaje camuflada (Quinjets robados, helicópteros de LexCorp)
 - Sistema de defensa antiaéreo (torretas controladas por Brainiac)
